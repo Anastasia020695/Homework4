@@ -1,0 +1,14 @@
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\bin\Debug\net7.0\Задача 27.exe
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\bin\Debug\net7.0\Задача 27.deps.json
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\bin\Debug\net7.0\Задача 27.runtimeconfig.json
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\bin\Debug\net7.0\Задача 27.dll
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\bin\Debug\net7.0\Задача 27.pdb
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\Задача 27.AssemblyInfoInputs.cache
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\Задача 27.AssemblyInfo.cs
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\Задача 27.csproj.CoreCompileInputs.cache
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\Задача 27.dll
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\refint\Задача 27.dll
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\Задача 27.pdb
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\Задача 27.genruntimeconfig.cache
+C:\Users\missm\OneDrive\Рабочий стол\ДЗ 4\Задача 27\obj\Debug\net7.0\ref\Задача 27.dll
